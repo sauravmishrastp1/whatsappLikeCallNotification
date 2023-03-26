@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "353420311314",
+    "project_id": "serveralert-93ae8",
+    "storage_bucket": "serveralert-93ae8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353420311314:android:4bcbd339b0f5f8212d91cb",
+        "android_client_info": {
+          "package_name": "com.jb.FCMNotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353420311314-ut269if1g709bb14d4nra9oijk6vo8bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzpzcUSIKFRkLsWlQo4qvX2eRDuJ05wV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353420311314-ut269if1g709bb14d4nra9oijk6vo8bo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "353420311314-nmuiv4uhh78eqef2cpelvbehhur950lf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bizbrolly.ServerAlert"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353420311314:android:95e70889e087c3522d91cb",
+        "android_client_info": {
+          "package_name": "com.mp.notificationcallkitdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353420311314-ut269if1g709bb14d4nra9oijk6vo8bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzpzcUSIKFRkLsWlQo4qvX2eRDuJ05wV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353420311314-ut269if1g709bb14d4nra9oijk6vo8bo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "353420311314-nmuiv4uhh78eqef2cpelvbehhur950lf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bizbrolly.ServerAlert"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
